@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Encode
+comment0.text=\n\ This\ class\ established\ basis\ of\ program\ that\ shifts\ characters\ in\ string\ by\n\ one\ space\n\n\ @author\ sgupta40\n\ @version\ 2/20/19\n
+comment1.params=inString
+comment1.target=Encode(java.lang.String)
+comment2.params=
+comment2.target=void\ shift()
+comment3.params=
+comment3.target=java.lang.String\ getOriginalString()
+comment4.params=
+comment4.target=java.lang.String\ getModifiedString()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
